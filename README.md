@@ -1,2 +1,0 @@
-# ScriptDigis
-ScriptDigis
